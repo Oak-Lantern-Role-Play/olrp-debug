@@ -25,7 +25,7 @@ This mods shows you how many model files are currently loaded and unloaded by yo
    ![Screenshot of the rendered output showing you the current pools and number of models loaded.](example-output.png)
 
 > [!IMPORTANT]
-> You will need to repeat steps 4 and 5 every time you add or remove any resources. This script only works by having a list of all assets and counting if they are loaded in game. If you do not update the custom.json list regularly, the output of this tool may be inaccurate.
+> You will need to repeat steps 4-6 every time you add or remove any resources. This script only works by having a list of all assets and counting if they are loaded in game. If you do not update the custom.json list regularly, the output of this tool may be inaccurate.
 
 ## Demo video
 [![Debug tool demo](https://img.youtube.com/vi/G5GWmVUok1Q/0.jpg)](https://youtu.be/G5GWmVUok1Q?t=5 "Debug tool demo")
