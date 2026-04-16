@@ -1,4 +1,4 @@
--- RDR2 prop list courteout of https://github.com/BryceCanyonCounty
+-- RDR2 prop list from https://github.com/BryceCanyonCounty
 -- Peds:     https://raw.githubusercontent.com/BryceCanyonCounty/rdr3-nativedb-data/master/objects/peds.json
 -- Vehicles: https://raw.githubusercontent.com/BryceCanyonCounty/rdr3-nativedb-data/master/objects/vehicles.json
 -- Objects:  https://raw.githubusercontent.com/BryceCanyonCounty/rdr3-nativedb-data/master/objects/objects.json
